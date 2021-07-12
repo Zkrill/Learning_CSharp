@@ -10,58 +10,23 @@ namespace ConsoleApp1Core
     {
         static void Main(string[] args)
         {
-            int row = 5;
-            int coll = 5;
-            int[,] massive = new int[row , coll];
-            int[,] massive1 = new int[row, coll];
-            for (int i = 0; i < row; i++)
-            {
-                for (int j = 0; j < coll; j++)
-                {
-                    if (i != j)
-                    {
-                        massive[i, j] = 1;
-                    }
-                }
-            }
+            int[][] teathArray = new int[3][];
 
-            for (int i = 0; i < row; i++)
+            Random random = new Random();
+
+            teathArray[0] = new int[4];
+            teathArray[1] = new int[2];
+            teathArray[2] = new int[6];
+
+            for (int i = 0; i < teathArray.Length; i++)
             {
-                for (int j = 0; j < coll; j++)
+                for(int j = 0; j < teathArray[i].Length; j++)
                 {
-                    Console.Write(massive[i, j]);
+                    teathArray[i][j] = random.Next(100);
+                    Console.Write(teathArray[i][j] + "\t");
                 }
                 Console.WriteLine();
             }
-
-            Console.WriteLine();
-
-            for (int i = 0; i < massive1.GetLength(0); i++)
-            {
-                for (int j = massive1.GetLength(1) - 1; j >= 0; j--)
-                {
-                    if (i + j != 4)
-                    {
-                        massive1[i, j] = 1;
-                    }
-                }
-            }
-
-            for (int i = 0; i < massive1.GetLength(0); i++)
-            {
-                for (int j = 0; j < massive1.GetLength(1); j++)
-                {
-                    Console.Write(massive1[i, j]);
-                }
-                Console.WriteLine();
-            }
-
-            Console.WriteLine();
-            Console.WriteLine(massive.GetLength(0));
-            Console.WriteLine(massive.GetLength(1));
-            Console.WriteLine();
-            Console.WriteLine(massive1.GetLength(0));
-            Console.WriteLine(massive1.GetLength(1));
         }
     }
 }
