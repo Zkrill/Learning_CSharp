@@ -1,0 +1,16 @@
+E:\C#_Projects\ReferencePracticExecise_2\bin\Debug\net5.0\ReferencePracticExecise_2.exe
+E:\C#_Projects\ReferencePracticExecise_2\bin\Debug\net5.0\ReferencePracticExecise_2.deps.json
+E:\C#_Projects\ReferencePracticExecise_2\bin\Debug\net5.0\ReferencePracticExecise_2.runtimeconfig.json
+E:\C#_Projects\ReferencePracticExecise_2\bin\Debug\net5.0\ReferencePracticExecise_2.runtimeconfig.dev.json
+E:\C#_Projects\ReferencePracticExecise_2\bin\Debug\net5.0\ReferencePracticExecise_2.dll
+E:\C#_Projects\ReferencePracticExecise_2\bin\Debug\net5.0\ref\ReferencePracticExecise_2.dll
+E:\C#_Projects\ReferencePracticExecise_2\bin\Debug\net5.0\ReferencePracticExecise_2.pdb
+E:\C#_Projects\ReferencePracticExecise_2\obj\Debug\net5.0\ReferencePracticExecise_2.csproj.AssemblyReference.cache
+E:\C#_Projects\ReferencePracticExecise_2\obj\Debug\net5.0\ReferencePracticExecise_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Projects\ReferencePracticExecise_2\obj\Debug\net5.0\ReferencePracticExecise_2.AssemblyInfoInputs.cache
+E:\C#_Projects\ReferencePracticExecise_2\obj\Debug\net5.0\ReferencePracticExecise_2.AssemblyInfo.cs
+E:\C#_Projects\ReferencePracticExecise_2\obj\Debug\net5.0\ReferencePracticExecise_2.csproj.CoreCompileInputs.cache
+E:\C#_Projects\ReferencePracticExecise_2\obj\Debug\net5.0\ReferencePracticExecise_2.dll
+E:\C#_Projects\ReferencePracticExecise_2\obj\Debug\net5.0\ref\ReferencePracticExecise_2.dll
+E:\C#_Projects\ReferencePracticExecise_2\obj\Debug\net5.0\ReferencePracticExecise_2.pdb
+E:\C#_Projects\ReferencePracticExecise_2\obj\Debug\net5.0\ReferencePracticExecise_2.genruntimeconfig.cache

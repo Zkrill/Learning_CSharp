@@ -1,0 +1,16 @@
+E:\C#_Projects\FunctionLesson\bin\Debug\net5.0\FunctionLesson.exe
+E:\C#_Projects\FunctionLesson\bin\Debug\net5.0\FunctionLesson.deps.json
+E:\C#_Projects\FunctionLesson\bin\Debug\net5.0\FunctionLesson.runtimeconfig.json
+E:\C#_Projects\FunctionLesson\bin\Debug\net5.0\FunctionLesson.runtimeconfig.dev.json
+E:\C#_Projects\FunctionLesson\bin\Debug\net5.0\FunctionLesson.dll
+E:\C#_Projects\FunctionLesson\bin\Debug\net5.0\ref\FunctionLesson.dll
+E:\C#_Projects\FunctionLesson\bin\Debug\net5.0\FunctionLesson.pdb
+E:\C#_Projects\FunctionLesson\obj\Debug\net5.0\FunctionLesson.csproj.AssemblyReference.cache
+E:\C#_Projects\FunctionLesson\obj\Debug\net5.0\FunctionLesson.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Projects\FunctionLesson\obj\Debug\net5.0\FunctionLesson.AssemblyInfoInputs.cache
+E:\C#_Projects\FunctionLesson\obj\Debug\net5.0\FunctionLesson.AssemblyInfo.cs
+E:\C#_Projects\FunctionLesson\obj\Debug\net5.0\FunctionLesson.csproj.CoreCompileInputs.cache
+E:\C#_Projects\FunctionLesson\obj\Debug\net5.0\FunctionLesson.dll
+E:\C#_Projects\FunctionLesson\obj\Debug\net5.0\ref\FunctionLesson.dll
+E:\C#_Projects\FunctionLesson\obj\Debug\net5.0\FunctionLesson.pdb
+E:\C#_Projects\FunctionLesson\obj\Debug\net5.0\FunctionLesson.genruntimeconfig.cache

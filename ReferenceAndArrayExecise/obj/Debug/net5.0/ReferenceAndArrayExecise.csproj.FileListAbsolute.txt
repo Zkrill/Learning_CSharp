@@ -1,0 +1,16 @@
+E:\C#_Projects\ReferenceAndArrayExecise\bin\Debug\net5.0\ReferenceAndArrayExecise.exe
+E:\C#_Projects\ReferenceAndArrayExecise\bin\Debug\net5.0\ReferenceAndArrayExecise.deps.json
+E:\C#_Projects\ReferenceAndArrayExecise\bin\Debug\net5.0\ReferenceAndArrayExecise.runtimeconfig.json
+E:\C#_Projects\ReferenceAndArrayExecise\bin\Debug\net5.0\ReferenceAndArrayExecise.runtimeconfig.dev.json
+E:\C#_Projects\ReferenceAndArrayExecise\bin\Debug\net5.0\ReferenceAndArrayExecise.dll
+E:\C#_Projects\ReferenceAndArrayExecise\bin\Debug\net5.0\ref\ReferenceAndArrayExecise.dll
+E:\C#_Projects\ReferenceAndArrayExecise\bin\Debug\net5.0\ReferenceAndArrayExecise.pdb
+E:\C#_Projects\ReferenceAndArrayExecise\obj\Debug\net5.0\ReferenceAndArrayExecise.csproj.AssemblyReference.cache
+E:\C#_Projects\ReferenceAndArrayExecise\obj\Debug\net5.0\ReferenceAndArrayExecise.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Projects\ReferenceAndArrayExecise\obj\Debug\net5.0\ReferenceAndArrayExecise.AssemblyInfoInputs.cache
+E:\C#_Projects\ReferenceAndArrayExecise\obj\Debug\net5.0\ReferenceAndArrayExecise.AssemblyInfo.cs
+E:\C#_Projects\ReferenceAndArrayExecise\obj\Debug\net5.0\ReferenceAndArrayExecise.csproj.CoreCompileInputs.cache
+E:\C#_Projects\ReferenceAndArrayExecise\obj\Debug\net5.0\ReferenceAndArrayExecise.dll
+E:\C#_Projects\ReferenceAndArrayExecise\obj\Debug\net5.0\ref\ReferenceAndArrayExecise.dll
+E:\C#_Projects\ReferenceAndArrayExecise\obj\Debug\net5.0\ReferenceAndArrayExecise.pdb
+E:\C#_Projects\ReferenceAndArrayExecise\obj\Debug\net5.0\ReferenceAndArrayExecise.genruntimeconfig.cache

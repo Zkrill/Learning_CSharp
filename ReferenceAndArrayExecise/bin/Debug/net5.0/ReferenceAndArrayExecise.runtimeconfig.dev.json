@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ElMask\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ElMask\\.nuget\\packages"
+    ]
+  }
+}
