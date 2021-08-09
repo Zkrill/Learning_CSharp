@@ -47,19 +47,19 @@ namespace ReferencePracticExecise_2
             array = null;
             array = new int[arr.Length + 1];
             array[index] = element;
-            for(int i = 0; i < arr.Length; i++)
+            for(int i = 0; i < array.Length; i++)
             {
                 if(i == index)
                 {
                     continue;
                 }
-                if(i <= index)
-                {
-                    array[i + 1] = arr[i];
-                }
-                else
+                if(i < index)
                 {
                     array[i] = arr[i];
+                }
+                if(i > index)
+                {
+                    array[i] = arr[i-1];
                 }
             }
         }
