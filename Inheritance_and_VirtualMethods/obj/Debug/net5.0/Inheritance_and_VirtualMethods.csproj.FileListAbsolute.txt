@@ -1,0 +1,16 @@
+E:\C#_Projects\Inheritance_and_VirtualMethods\obj\Debug\net5.0\Inheritance_and_VirtualMethods.csproj.AssemblyReference.cache
+E:\C#_Projects\Inheritance_and_VirtualMethods\obj\Debug\net5.0\Inheritance_and_VirtualMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Projects\Inheritance_and_VirtualMethods\obj\Debug\net5.0\Inheritance_and_VirtualMethods.AssemblyInfoInputs.cache
+E:\C#_Projects\Inheritance_and_VirtualMethods\obj\Debug\net5.0\Inheritance_and_VirtualMethods.AssemblyInfo.cs
+E:\C#_Projects\Inheritance_and_VirtualMethods\obj\Debug\net5.0\Inheritance_and_VirtualMethods.csproj.CoreCompileInputs.cache
+E:\C#_Projects\Inheritance_and_VirtualMethods\bin\Debug\net5.0\Inheritance_and_VirtualMethods.exe
+E:\C#_Projects\Inheritance_and_VirtualMethods\bin\Debug\net5.0\Inheritance_and_VirtualMethods.deps.json
+E:\C#_Projects\Inheritance_and_VirtualMethods\bin\Debug\net5.0\Inheritance_and_VirtualMethods.runtimeconfig.json
+E:\C#_Projects\Inheritance_and_VirtualMethods\bin\Debug\net5.0\Inheritance_and_VirtualMethods.runtimeconfig.dev.json
+E:\C#_Projects\Inheritance_and_VirtualMethods\bin\Debug\net5.0\Inheritance_and_VirtualMethods.dll
+E:\C#_Projects\Inheritance_and_VirtualMethods\bin\Debug\net5.0\ref\Inheritance_and_VirtualMethods.dll
+E:\C#_Projects\Inheritance_and_VirtualMethods\bin\Debug\net5.0\Inheritance_and_VirtualMethods.pdb
+E:\C#_Projects\Inheritance_and_VirtualMethods\obj\Debug\net5.0\Inheritance_and_VirtualMethods.dll
+E:\C#_Projects\Inheritance_and_VirtualMethods\obj\Debug\net5.0\ref\Inheritance_and_VirtualMethods.dll
+E:\C#_Projects\Inheritance_and_VirtualMethods\obj\Debug\net5.0\Inheritance_and_VirtualMethods.pdb
+E:\C#_Projects\Inheritance_and_VirtualMethods\obj\Debug\net5.0\Inheritance_and_VirtualMethods.genruntimeconfig.cache

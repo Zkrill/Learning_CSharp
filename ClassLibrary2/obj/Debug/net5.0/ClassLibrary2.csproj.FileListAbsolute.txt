@@ -1,0 +1,12 @@
+E:\C#_Projects\ClassLibrary2\bin\Debug\net5.0\ClassLibrary2.deps.json
+E:\C#_Projects\ClassLibrary2\bin\Debug\net5.0\ClassLibrary2.dll
+E:\C#_Projects\ClassLibrary2\bin\Debug\net5.0\ref\ClassLibrary2.dll
+E:\C#_Projects\ClassLibrary2\bin\Debug\net5.0\ClassLibrary2.pdb
+E:\C#_Projects\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Projects\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.AssemblyInfoInputs.cache
+E:\C#_Projects\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.AssemblyInfo.cs
+E:\C#_Projects\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+E:\C#_Projects\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.dll
+E:\C#_Projects\ClassLibrary2\obj\Debug\net5.0\ref\ClassLibrary2.dll
+E:\C#_Projects\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.pdb
+E:\C#_Projects\ClassLibrary2\obj\Debug\net5.0\ClassLibrary2.csproj.AssemblyReference.cache

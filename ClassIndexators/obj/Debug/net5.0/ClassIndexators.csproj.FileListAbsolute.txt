@@ -1,0 +1,12 @@
+E:\C#_Projects\ClassIndexators\bin\Debug\net5.0\ClassIndexators.deps.json
+E:\C#_Projects\ClassIndexators\bin\Debug\net5.0\ClassIndexators.dll
+E:\C#_Projects\ClassIndexators\bin\Debug\net5.0\ref\ClassIndexators.dll
+E:\C#_Projects\ClassIndexators\bin\Debug\net5.0\ClassIndexators.pdb
+E:\C#_Projects\ClassIndexators\obj\Debug\net5.0\ClassIndexators.csproj.AssemblyReference.cache
+E:\C#_Projects\ClassIndexators\obj\Debug\net5.0\ClassIndexators.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Projects\ClassIndexators\obj\Debug\net5.0\ClassIndexators.AssemblyInfoInputs.cache
+E:\C#_Projects\ClassIndexators\obj\Debug\net5.0\ClassIndexators.AssemblyInfo.cs
+E:\C#_Projects\ClassIndexators\obj\Debug\net5.0\ClassIndexators.csproj.CoreCompileInputs.cache
+E:\C#_Projects\ClassIndexators\obj\Debug\net5.0\ClassIndexators.dll
+E:\C#_Projects\ClassIndexators\obj\Debug\net5.0\ref\ClassIndexators.dll
+E:\C#_Projects\ClassIndexators\obj\Debug\net5.0\ClassIndexators.pdb

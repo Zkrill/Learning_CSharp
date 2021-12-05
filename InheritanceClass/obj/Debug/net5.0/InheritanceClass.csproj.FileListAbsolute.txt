@@ -1,0 +1,11 @@
+E:\C#_Projects\InheritanceClass\bin\Debug\net5.0\InheritanceClass.deps.json
+E:\C#_Projects\InheritanceClass\bin\Debug\net5.0\InheritanceClass.dll
+E:\C#_Projects\InheritanceClass\bin\Debug\net5.0\ref\InheritanceClass.dll
+E:\C#_Projects\InheritanceClass\bin\Debug\net5.0\InheritanceClass.pdb
+E:\C#_Projects\InheritanceClass\obj\Debug\net5.0\InheritanceClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Projects\InheritanceClass\obj\Debug\net5.0\InheritanceClass.AssemblyInfoInputs.cache
+E:\C#_Projects\InheritanceClass\obj\Debug\net5.0\InheritanceClass.AssemblyInfo.cs
+E:\C#_Projects\InheritanceClass\obj\Debug\net5.0\InheritanceClass.csproj.CoreCompileInputs.cache
+E:\C#_Projects\InheritanceClass\obj\Debug\net5.0\InheritanceClass.dll
+E:\C#_Projects\InheritanceClass\obj\Debug\net5.0\ref\InheritanceClass.dll
+E:\C#_Projects\InheritanceClass\obj\Debug\net5.0\InheritanceClass.pdb

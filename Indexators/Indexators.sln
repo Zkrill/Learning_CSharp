@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexators", "Indexators.csproj", "{49BBF40A-06F9-4A30-927D-C3816FE14977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIndexators", "..\ClassIndexators\ClassIndexators.csproj", "{BC845524-DC2C-48FB-81FB-54A7066B24E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49BBF40A-06F9-4A30-927D-C3816FE14977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BBF40A-06F9-4A30-927D-C3816FE14977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BBF40A-06F9-4A30-927D-C3816FE14977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BBF40A-06F9-4A30-927D-C3816FE14977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC845524-DC2C-48FB-81FB-54A7066B24E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC845524-DC2C-48FB-81FB-54A7066B24E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC845524-DC2C-48FB-81FB-54A7066B24E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC845524-DC2C-48FB-81FB-54A7066B24E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D4303EC-6401-43E7-BA9F-0C005F39D1CD}
+	EndGlobalSection
+EndGlobal

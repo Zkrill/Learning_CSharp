@@ -1,0 +1,16 @@
+E:\C#_Projects\RecursionPractice_ex3\bin\Debug\net5.0\RecursionPractice_ex3.exe
+E:\C#_Projects\RecursionPractice_ex3\bin\Debug\net5.0\RecursionPractice_ex3.deps.json
+E:\C#_Projects\RecursionPractice_ex3\bin\Debug\net5.0\RecursionPractice_ex3.runtimeconfig.json
+E:\C#_Projects\RecursionPractice_ex3\bin\Debug\net5.0\RecursionPractice_ex3.runtimeconfig.dev.json
+E:\C#_Projects\RecursionPractice_ex3\bin\Debug\net5.0\RecursionPractice_ex3.dll
+E:\C#_Projects\RecursionPractice_ex3\bin\Debug\net5.0\ref\RecursionPractice_ex3.dll
+E:\C#_Projects\RecursionPractice_ex3\bin\Debug\net5.0\RecursionPractice_ex3.pdb
+E:\C#_Projects\RecursionPractice_ex3\obj\Debug\net5.0\RecursionPractice_ex3.csproj.AssemblyReference.cache
+E:\C#_Projects\RecursionPractice_ex3\obj\Debug\net5.0\RecursionPractice_ex3.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Projects\RecursionPractice_ex3\obj\Debug\net5.0\RecursionPractice_ex3.AssemblyInfoInputs.cache
+E:\C#_Projects\RecursionPractice_ex3\obj\Debug\net5.0\RecursionPractice_ex3.AssemblyInfo.cs
+E:\C#_Projects\RecursionPractice_ex3\obj\Debug\net5.0\RecursionPractice_ex3.csproj.CoreCompileInputs.cache
+E:\C#_Projects\RecursionPractice_ex3\obj\Debug\net5.0\RecursionPractice_ex3.dll
+E:\C#_Projects\RecursionPractice_ex3\obj\Debug\net5.0\ref\RecursionPractice_ex3.dll
+E:\C#_Projects\RecursionPractice_ex3\obj\Debug\net5.0\RecursionPractice_ex3.pdb
+E:\C#_Projects\RecursionPractice_ex3\obj\Debug\net5.0\RecursionPractice_ex3.genruntimeconfig.cache

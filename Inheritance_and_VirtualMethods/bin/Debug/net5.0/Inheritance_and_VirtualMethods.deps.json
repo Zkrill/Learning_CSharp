@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Inheritance_and_VirtualMethods/1.0.0": {
+        "runtime": {
+          "Inheritance_and_VirtualMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inheritance_and_VirtualMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
